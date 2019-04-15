@@ -2683,6 +2683,14 @@ Abrir % 1 ajuda on-line</translation>
         <source>Repair explorer extension</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Repair explorer success</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Repair explorer failed</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>SearchResultListView</name>

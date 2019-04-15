@@ -2691,6 +2691,14 @@ Der Speicherplatz der Eigentümerin oder des Eigentümers der Bibliothek ist auf
     </message>
     <message>
         <source>Repair explorer extension</source>
+        <translation>Die Explorer-Erweiterung weiderherstellen</translation>
+    </message>
+    <message>
+        <source>Repair explorer success</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Repair explorer failed</source>
         <translation type="unfinished"/>
     </message>
 </context>

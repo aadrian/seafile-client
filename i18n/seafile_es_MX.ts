@@ -2692,6 +2692,14 @@ El espacio de almacenamiento del propietario de la biblioteca está agotado.</tr
     </message>
     <message>
         <source>Repair explorer extension</source>
+        <translation>Reparar extensión explorer</translation>
+    </message>
+    <message>
+        <source>Repair explorer success</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Repair explorer failed</source>
         <translation type="unfinished"/>
     </message>
 </context>

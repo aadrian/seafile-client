@@ -2695,6 +2695,14 @@ The library owner&apos;s storage space is used up.</source>
         <source>Repair explorer extension</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Repair explorer success</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Repair explorer failed</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>SearchResultListView</name>

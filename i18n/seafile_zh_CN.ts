@@ -2684,6 +2684,14 @@ The library owner&apos;s storage space is used up.</source>
         <source>Repair explorer extension</source>
         <translation>修复文件管理器扩展</translation>
     </message>
+    <message>
+        <source>Repair explorer success</source>
+        <translation>修复文件浏览器扩展图标成功</translation>
+    </message>
+    <message>
+        <source>Repair explorer failed</source>
+        <translation>修复文件浏览器扩展图标失败</translation>
+    </message>
 </context>
 <context>
     <name>SearchResultListView</name>

@@ -2694,6 +2694,14 @@ Wolna przestrzeń właściciela biblioteka została wykorzystana.</translation>
         <source>Repair explorer extension</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Repair explorer success</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Repair explorer failed</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>SearchResultListView</name>
